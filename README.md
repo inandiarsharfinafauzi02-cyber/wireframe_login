@@ -1,11 +1,13 @@
 # Pembuatan Form Login dan Registrasi Interaktif
 1. Tambahkan validasi yang lebih baik. Misalnya, cek apakah email
  memiliki format yang benar (mengandung ’@’) atau password memiliki panjang
+
  minimal 6 karakter:
+ 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6a65dc59-78ae-42c5-9214-3406a1067d2c" />
 <img width="677" height="515" alt="image" src="https://github.com/user-attachments/assets/5624ea36-6437-4a06-979d-ceab64222d38" />
 
--jika password tisak sesuai ketentuan 6 karakter yang telah di tentuak:
+-jika password tidak sesuai ketentuan 6 karakter yang telah di tentukan:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/816af357-1d62-412d-9d50-c5cc6fe9f257" />
 
 2. Tampilkan/Sembunyikan Password: Tambahkan ikon mata pada TextField password yang bisa ditekan untuk menampilkan atau menyembunyikan teks password
